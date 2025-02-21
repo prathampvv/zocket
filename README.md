@@ -13,3 +13,38 @@ After setting up the environment, the application can be started by running the 
 Contributions to Zocket are welcome, and developers can submit issues and pull requests by following the Git branching workflow. New features should be developed in separate branches, committed with appropriate messages, and pushed to the repository before merging.
 
 The project is licensed under the MIT License, allowing for open-source contributions and modifications. Whether you're looking for a smart task management solution or an AI-powered assistant for productivity, Zocket provides an intuitive and scalable platform to meet your needs
+How AI Tools Helped
+
+AI tools significantly enhanced the efficiency of the development process in various aspects:
+🔍 Code Assistance & Debugging
+
+    AI-powered autocomplete improved development speed by suggesting relevant code snippets.
+    Error detection and debugging helped resolve issues faster, particularly during database connectivity and API integration.
+
+⚡ Optimized Authentication & Security
+
+    AI-generated secure JWT authentication logic ensured robust user authentication.
+    Suggested best security practices for handling authentication tokens on the client side.
+
+🏗 Improved UI/UX with Tailwind CSS
+
+    Recommended responsive and accessible UI components using Tailwind CSS.
+    Generated optimized design patterns for a seamless user experience.
+
+🛠 Database & API Optimization
+
+    Suggested PostgreSQL database configurations, fixing issues like P1001: Can't reach database server.
+    Helped optimize API calls for real-time task updates.
+
+💬 AI Chatbot for Task Recommendations
+
+    Used AI-based natural language processing (NLP) to provide task recommendations based on user input.
+    Integrated chatbot capabilities to enhance user engagement.
+
+📌 Key Features
+
+✅ Next.js with TypeScript & Tailwind CSS
+✅ Task Dashboard with Real-Time Updates
+✅ JWT Authentication
+✅ AI Chatbot for Task Suggestions
+✅ Optimized API Calls & Database Queries
